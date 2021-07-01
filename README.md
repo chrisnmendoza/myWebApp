@@ -1,5 +1,5 @@
-I'm not hosting this unfortunately :(
-To host locally:
+I'm not hosting this unfortunately :(     
+To host locally:     
 - clone the repo
 - open cmd
 - cd to where this project was cloned
